@@ -1,0 +1,16 @@
+{
+  "name": "node-backend-project",
+  "version": "1.0.0",
+  "description": "learning Backend from the youtube channel Chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java",
+    "script",
+    "backend"
+  ],
+  "author": "vikas singh",
+  "license": "ISC"
+}
